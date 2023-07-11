@@ -16,11 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <plugin>
-      <finalName>01-maven-web-app</finalName>
-      <groupId>org.apache.maven.plugins</groupId>
-      <artifactId>maven-war-plugin</artifactId>
-      <version>2.2</version>
-    </plugin>
+    <finalName>01-maven-web-app</finalName>
   </build>
 </project>
